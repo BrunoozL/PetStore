@@ -180,6 +180,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Imagens\btnFechar.png" />
+    <Content Include="Banco de Dados\petshop.sql" />
     <Content Include="Imagens\Logo.png" />
     <None Include="Resources\Logo.png" />
   </ItemGroup>
